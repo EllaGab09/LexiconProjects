@@ -11,3 +11,6 @@ Week 2: [Arena Fighter](https://github.com/LexiconProjects/arena-fighter)
 
 Week 3: [Golf](https://github.com/LexiconProjects/golf)
 - Console based golf practice game.
+
+Week 4-5: [Vending Machine](https://github.com/LexiconProjects/vending-machine)
+- Console based application for a vending machine.
