@@ -14,3 +14,17 @@ Week 3: [Golf](https://github.com/LexiconProjects/golf)
 
 Week 4-5: [Vending Machine](https://github.com/LexiconProjects/vending-machine)
 - Console based application for a vending machine.
+
+## Frontend Development
+Week 6: [Bootstrap website](https://github.com/LexiconProjects/responsive-website-Bootstrap)
+- Responsive website created after a given template using Bootstrap.
+
+Week 6: [Static HTML website](https://github.com/LexiconProjects/static-website-HTML-CSS)
+- Static website after given template using HTML and CSS.
+
+Week 7-8: [JavaScript minigames](https://github.com/LexiconProjects/js-games)
+- A couple of simple games such as number guessing or string manipulation.
+
+## Programming in .NET
+Week 9: [Portfolio website](https://github.com/LexiconProjects/first-mvc-web-app)
+- Website designed with MVC pattern using ASP.NET Core and Razor.
