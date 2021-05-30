@@ -28,5 +28,6 @@ Week 7-8: [JavaScript minigames](https://github.com/LexiconProjects/js-games)
 ## Programming in .NET
 Week 9: [Portfolio website](https://github.com/LexiconProjects/first-mvc-web-app)
 - Website designed with MVC pattern using ASP.NET Core and Razor.
+
 Week 10: [Tables and Views](https://github.com/LexiconProjects/tables-and-partial-views-asp.net-mvc)
 - ASP.Net Core MVC web application with partial views and data displayed in tables.
